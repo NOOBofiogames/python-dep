@@ -2,7 +2,7 @@
 import websockets
 import asyncio
 
-PORT = 25562
+PORT = 80
 
 print("Server listening on Port " + str(PORT))
 
