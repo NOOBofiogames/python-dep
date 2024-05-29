@@ -1,2 +1,4 @@
-websockets
 asyncio
+http
+signal
+websockets
